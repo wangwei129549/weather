@@ -1,7 +1,5 @@
 package model;
 
-import android.R.integer;
-
 public class County {
 	
 	private int id;
